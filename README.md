@@ -13,4 +13,4 @@ If you have any other issues or questions about Appcircle, you can contact us vi
 
 Test push trigger
 
-BE-2808 redurant pipeline test 1.0
+BE-2808 redurant pipeline test 1.1
